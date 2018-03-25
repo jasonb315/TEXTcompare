@@ -52,32 +52,32 @@ p {
 
 #section1{
   font-family: 'Lato', sans-serif;
-  background-color: #43545F;
-  color: white;
+  background-color: whitesmoke;
+  color: #43545F;
 }
 
 #section2{
   font-family: 'Lato', sans-serif;
-  background-color: #40667F;
-  color: black;
+  background-color: whitesmoke;
+  color: #5A717F;
 }
 
 #section3{
   font-family: 'Lato', sans-serif;
-  background-color: #CCEBFF;
-  color: #202020;
+  background-color: whitesmoke;
+  color: #657E8F;
 }
 
 #section4{
   font-family: 'Lato', sans-serif;
-  background-color: #7FCDFF;
-  color: #202020;
+  background-color: whitesmoke;
+  color: #657E8F;
 }
 
 #section5{
   font-family: 'Lato', sans-serif;
-  background-color: #66A4CC;
-  color: #202020;
+  background-color: white;
+  color: #657E8F;
 }
 
 /* #section6{
@@ -87,50 +87,74 @@ p {
 
 /* MAIN HEADERS */
 #tH1{
-
+  color: #43545F;
 }
 
 #tH2{
-
+  color: #657E8F;
 }
 
 #tH3{
-
+  color: #657E8F;
 }
 
-/* #tH4{
-
+#tH4{
+  color: #657E8F;
 }
 
 #tH5{
-
+  color: #657E8F;
 }
 
-#tH6{
+/* #tH6{
 
 } */
 
 /* SUB HEADERS */
 #th1{
-
+  color: #5A717F;
 }
 
 #th2{
-
+  color: #5A717F;
 }
 
 #th3{
-
+  color: #657E8F;
 }
 
-/* #th4{
-
+#th4{
+  color: #657E8F;
 }
 
 #th5{
-
+  color: #657E8F;
 }
 
-#th6{
+/* #th6{
 
 } */
+
+#body1{
+  color: #657E8F;
+}
+
+#body2{
+  color: #43545F;
+}
+
+#body3{
+  color: #5A717F;
+}
+
+#body4{
+  color: #5A717F;
+}
+
+#body5{
+  color: #5A717F;
+}
+
+#body6{
+  color: #5A717F;
+}
