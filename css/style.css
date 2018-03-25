@@ -1,0 +1,138 @@
+body {
+  /* background-color: #202020;
+  color: white; */
+  background-color: white;
+  color: black;
+  
+}
+
+/*
+font-family: 'Lato', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'PT Mono', monospace;
+font-family: 'IBM Plex Mono', monospace;
+font-family: 'Muli', sans-serif;
+font-family: 'Nunito', sans-serif;
+*/
+
+
+h1{
+ font-size: 2em;
+}
+
+h2{
+
+}
+
+p {
+
+}
+
+/* SECTION SECTION */
+.Ss {
+  height:33vh;
+}
+
+#section1{
+  font-family: 'Lato', sans-serif;
+  /* font-family: 'Ubuntu', sans-serif; */
+  /* font-family: 'PT Mono', monospace; */
+  /* font-family: 'IBM Plex Mono', monospace; */
+  /* font-family: 'Muli', sans-serif; */
+  /* font-family: 'Nunito', sans-serif; */
+}
+
+#section2{
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Ubuntu', sans-serif;
+  /* font-family: 'PT Mono', monospace; */
+  /* font-family: 'IBM Plex Mono', monospace; */
+  /* font-family: 'Muli', sans-serif; */
+  /* font-family: 'Nunito', sans-serif; */
+}
+
+#section3{
+  /* font-family: 'Lato', sans-serif; */
+  /* font-family: 'Ubuntu', sans-serif; */
+  font-family: 'PT Mono', monospace;
+  /* font-family: 'IBM Plex Mono', monospace; */
+  /* font-family: 'Muli', sans-serif; */
+  /* font-family: 'Nunito', sans-serif; */
+}
+
+#section4{
+  /* font-family: 'Lato', sans-serif; */
+  /* font-family: 'Ubuntu', sans-serif; */
+  /* font-family: 'PT Mono', monospace; */
+  font-family: 'IBM Plex Mono', monospace;
+  /* font-family: 'Muli', sans-serif; */
+  /* font-family: 'Nunito', sans-serif; */
+}
+
+#section5{
+  /* font-family: 'Lato', sans-serif; */
+  /* font-family: 'Ubuntu', sans-serif; */
+  /* font-family: 'PT Mono', monospace; */
+  /* font-family: 'IBM Plex Mono', monospace; */
+  font-family: 'Muli', sans-serif;
+  /* font-family: 'Nunito', sans-serif; */
+}
+
+#section6{
+  /* font-family: 'Lato', sans-serif; */
+  /* font-family: 'Ubuntu', sans-serif; */
+  /* font-family: 'PT Mono', monospace; */
+  /* font-family: 'IBM Plex Mono', monospace; */
+  /* font-family: 'Muli', sans-serif; */
+  font-family: 'Nunito', sans-serif;
+}
+
+/* MAIN HEADERS */
+#tH1{
+
+}
+
+#tH2{
+
+}
+
+#tH3{
+
+}
+
+#tH4{
+
+}
+
+#tH5{
+
+}
+
+#tH6{
+
+}
+
+/* SUB HEADERS */
+#th1{
+
+}
+
+#th2{
+
+}
+
+#th3{
+
+}
+
+#th4{
+
+}
+
+#th5{
+
+}
+
+#th6{
+
+}
