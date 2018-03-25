@@ -7,13 +7,29 @@ body {
 }
 
 /*
+
+ALT fonts:
+
 font-family: 'Lato', sans-serif;
 font-family: 'Ubuntu', sans-serif;
 font-family: 'PT Mono', monospace;
 font-family: 'IBM Plex Mono', monospace;
 font-family: 'Muli', sans-serif;
 font-family: 'Nunito', sans-serif;
-  font-family: 'Roboto', sans-serif;
+
+NEURESTHETIC BLUES
+
+#43545F logoshade dark
+#5A717F logoshade medium
+#657E8F logoshade light
+
+logoshade dark monochromatic set:
+#43545F lsdark
+#40667F navish
+#CCEBFF blue tint white
+#7FCDFF sky
+#66A4CC led paint
+
 */
 
 
@@ -22,11 +38,11 @@ h1{
 }
 /*  */
 h2{
-
+  font-size: 1.2em;
 }
 
 p {
-
+  font-size: 1em;
 }
 
 /* SECTION SECTION */
@@ -36,60 +52,38 @@ p {
 
 #section1{
   font-family: 'Lato', sans-serif;
-  /* font-family: 'Ubuntu', sans-serif; */
-  /* font-family: 'PT Mono', monospace; */
-  /* font-family: 'IBM Plex Mono', monospace; */
-  /* font-family: 'Muli', sans-serif; */
-  /* font-family: 'Nunito', sans-serif; */
+  background-color: #43545F;
+  color: white;
 }
 
 #section2{
   font-family: 'Lato', sans-serif;
-  /* font-family: 'Ubuntu', sans-serif; */
-  /* font-family: 'PT Mono', monospace; */
-  /* font-family: 'IBM Plex Mono', monospace; */
-  /* font-family: 'Muli', sans-serif; */
-  /* font-family: 'Nunito', sans-serif; */
+  background-color: #40667F;
+  color: black;
 }
 
 #section3{
   font-family: 'Lato', sans-serif;
-  /* font-family: 'Ubuntu', sans-serif; */
-  /* font-family: 'PT Mono', monospace; */
-  /* font-family: 'IBM Plex Mono', monospace; */
-  /* font-family: 'Muli', sans-serif; */
-  /* font-family: 'Nunito', sans-serif; */
+  background-color: #CCEBFF;
+  color: #202020;
 }
 
 #section4{
-  font-family: 'Roboto', sans-serif;
-  /* font-family: 'Lato', sans-serif; */
-  /* font-family: 'Ubuntu', sans-serif; */
-  /* font-family: 'PT Mono', monospace; */
-  /* font-family: 'IBM Plex Mono', monospace; */
-  /* font-family: 'Muli', sans-serif; */
-  /* font-family: 'Nunito', sans-serif; */
+  font-family: 'Lato', sans-serif;
+  background-color: #7FCDFF;
+  color: #202020;
 }
 
 #section5{
-  font-family: 'Roboto', sans-serif;
-  /* font-family: 'Lato', sans-serif; */
-  /* font-family: 'Ubuntu', sans-serif; */
-  /* font-family: 'PT Mono', monospace; */
-  /* font-family: 'IBM Plex Mono', monospace; */
-  /* font-family: 'Muli', sans-serif; */
-  /* font-family: 'Nunito', sans-serif; */
+  font-family: 'Lato', sans-serif;
+  background-color: #66A4CC;
+  color: #202020;
 }
 
-#section6{
-  font-family: 'Roboto', sans-serif;
-  /* font-family: 'Lato', sans-serif; */
-  /* font-family: 'Ubuntu', sans-serif; */
-  /* font-family: 'PT Mono', monospace; */
-  /* font-family: 'IBM Plex Mono', monospace; */
-  /* font-family: 'Muli', sans-serif; */
-  /* font-family: 'Nunito', sans-serif; */
-}
+/* #section6{
+  font-family: 'Lato', sans-serif;
+
+} */
 
 /* MAIN HEADERS */
 #tH1{
@@ -104,7 +98,7 @@ p {
 
 }
 
-#tH4{
+/* #tH4{
 
 }
 
@@ -114,7 +108,7 @@ p {
 
 #tH6{
 
-}
+} */
 
 /* SUB HEADERS */
 #th1{
@@ -129,7 +123,7 @@ p {
 
 }
 
-#th4{
+/* #th4{
 
 }
 
@@ -139,4 +133,4 @@ p {
 
 #th6{
 
-}
+} */
