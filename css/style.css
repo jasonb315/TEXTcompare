@@ -13,6 +13,7 @@ font-family: 'PT Mono', monospace;
 font-family: 'IBM Plex Mono', monospace;
 font-family: 'Muli', sans-serif;
 font-family: 'Nunito', sans-serif;
+  font-family: 'Roboto', sans-serif;
 */
 
 
@@ -43,8 +44,8 @@ p {
 }
 
 #section2{
-  /* font-family: 'Lato', sans-serif; */
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Lato', sans-serif;
+  /* font-family: 'Ubuntu', sans-serif; */
   /* font-family: 'PT Mono', monospace; */
   /* font-family: 'IBM Plex Mono', monospace; */
   /* font-family: 'Muli', sans-serif; */
@@ -52,39 +53,42 @@ p {
 }
 
 #section3{
-  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Lato', sans-serif;
   /* font-family: 'Ubuntu', sans-serif; */
-  font-family: 'PT Mono', monospace;
+  /* font-family: 'PT Mono', monospace; */
   /* font-family: 'IBM Plex Mono', monospace; */
   /* font-family: 'Muli', sans-serif; */
   /* font-family: 'Nunito', sans-serif; */
 }
 
 #section4{
+  font-family: 'Roboto', sans-serif;
   /* font-family: 'Lato', sans-serif; */
   /* font-family: 'Ubuntu', sans-serif; */
   /* font-family: 'PT Mono', monospace; */
-  font-family: 'IBM Plex Mono', monospace;
+  /* font-family: 'IBM Plex Mono', monospace; */
   /* font-family: 'Muli', sans-serif; */
   /* font-family: 'Nunito', sans-serif; */
 }
 
 #section5{
-  /* font-family: 'Lato', sans-serif; */
-  /* font-family: 'Ubuntu', sans-serif; */
-  /* font-family: 'PT Mono', monospace; */
-  /* font-family: 'IBM Plex Mono', monospace; */
-  font-family: 'Muli', sans-serif;
-  /* font-family: 'Nunito', sans-serif; */
-}
-
-#section6{
+  font-family: 'Roboto', sans-serif;
   /* font-family: 'Lato', sans-serif; */
   /* font-family: 'Ubuntu', sans-serif; */
   /* font-family: 'PT Mono', monospace; */
   /* font-family: 'IBM Plex Mono', monospace; */
   /* font-family: 'Muli', sans-serif; */
-  font-family: 'Nunito', sans-serif;
+  /* font-family: 'Nunito', sans-serif; */
+}
+
+#section6{
+  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Lato', sans-serif; */
+  /* font-family: 'Ubuntu', sans-serif; */
+  /* font-family: 'PT Mono', monospace; */
+  /* font-family: 'IBM Plex Mono', monospace; */
+  /* font-family: 'Muli', sans-serif; */
+  /* font-family: 'Nunito', sans-serif; */
 }
 
 /* MAIN HEADERS */
